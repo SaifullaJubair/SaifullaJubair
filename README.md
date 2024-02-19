@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD Saifulla Jubair</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
-
+- 👨‍💻 Solo Project [Charity](https://charity-client.vercel.app/) | [LensBD](https://lensbd.netlify.app/) | [Shovon'sGallery](https://shovon-sgallery.web.app/)  
+  
 - 🤝 Group project: Role: Leader [FareBD](https://farebd-9.web.app/)
 
 - 🤝 Group project: Role: Leader [News71](https://news-71-f8a9f.web.app/)
-- 👨‍💻 Solo Project [MoboSell](https://mobosell-a12.web.app/)
+
 
 
 
