@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/Zm9pR0S/vecteezy-software-engineer-png-graphic-clipart-design-20962925-2.png)
+
 
 
 <h1 align="center">Hi 👋, I'm MD Saifulla Jubair</h1>
